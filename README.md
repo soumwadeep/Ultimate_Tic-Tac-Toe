@@ -9,4 +9,6 @@ So Its Totally Free!
 Try It Now!!
 We Are Working Hard To Make More Free Apps Like This!
 So Please Support This Begginer Android Developer!
+THIS APP IS UPLOADED IN GETJAR TO DOWNLOAD! JUST VISIT THIS LINK AND DOWNLOAD IT:
+https://www.getjar.com/categories/productivity-apps/phone-tools/Sdg-Unit-Converter-985162
 Thank You For Downloading Our App In Advance!!!
