@@ -9,8 +9,10 @@ Try It Now!!
 We Are Working Hard To Make More Free Apps Like This!
 So Please Support This Begginer Android Developer!
 
-1)Our App Is In Getjar(The World’s Biggest Android App Market With 105+ Downloads)
-Link: https://www.getjar.com/categories/all-games/puzzle-and-strategy-games/Ultimate-Tic-Tac-Toe-985486
+1)Our App Is In Getjar(The World’s Biggest Android App Market)
+Link:
+https://www.getjar.com/categories/all-games/puzzle-and-strategy-games/Ultimate-Tic-Tac-Toe-985486
+105+ Downloads Till Date!
 
 2)If The Above Link Is Not Working Then Use This To Download Our App:
 https://drive.google.com/file/d/1_zLQLyp9OgO7taecDuHE34S3igEdo3LW/view?usp=sharing
@@ -24,6 +26,8 @@ https://github.com/soumwadeep/Ultimate_Tic-Tac-Toe
 5)Our Video Presentation:
 https://www.youtube.com/watch?v=_3cpt1Tt1qk
 
+6)All Files In One Folder:
+https://drive.google.com/drive/folders/1rn1DrLeQKozKliTVcj67hM6TykXQQDf8?usp=sharing
 
 THANKS A LOT FOR SEEING OUR PRESENTATION!
 
