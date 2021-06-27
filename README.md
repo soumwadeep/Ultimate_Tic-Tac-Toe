@@ -24,7 +24,8 @@ https://drive.google.com/file/d/1id9kpF8n30H0Ffxn_sHDhKRzjqoM4s60/view?usp=shari
 https://github.com/soumwadeep/Ultimate_Tic-Tac-Toe
 
 5)Our Video Presentation:
-https://www.youtube.com/watch?v=_3cpt1Tt1qk
+Ppt presentation:https://www.youtube.com/watch?v=_3cpt1Tt1qk
+App Working Video:https://youtu.be/PL6AxX7WNlQ
 
 6)All Files In One Folder:
 https://drive.google.com/drive/folders/1rn1DrLeQKozKliTVcj67hM6TykXQQDf8?usp=sharing
