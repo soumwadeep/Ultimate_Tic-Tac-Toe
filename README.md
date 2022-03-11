@@ -12,7 +12,7 @@ So Please Support This Begginer Android Developer!
 1)Our App Is In Getjar(The World’s Biggest Android App Market)
 Link:
 https://www.getjar.com/categories/all-games/puzzle-and-strategy-games/Ultimate-Tic-Tac-Toe-985486
-105+ Downloads Till Date!
+ 224+ Downloads Till Date!
 
 2)If The Above Link Is Not Working Then Use This To Download Our App:
 https://drive.google.com/file/d/1_zLQLyp9OgO7taecDuHE34S3igEdo3LW/view?usp=sharing
